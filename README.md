@@ -153,23 +153,21 @@ Examines product performance and country-level sales.
 ![Product and Geographic Dashboard](Screenshots/Page3_Product_Geographic_Dashboard.png)
 
 ## Repository Structure
+
+```text
 Online-Retail-Sales-Analytics/
-│
 ├── README.md
-│
-├── Python/
-│   └── Online_Retail_Analysis.ipynb
-│
-├── SQL/
-│   └── online_retail_analysis.sql
-│
 ├── PowerBI/
 │   └── Online_Retail_Sales_Analytics.pbix
-│
-└── Screenshots/
-    ├── Page1_Executive_Dashboard.png
-    ├── Page2_Customer_Dashboard.png
-    └── Page3_Product_Geographic_Dashboard.png
+├── Screenshots/
+│   ├── Page1_Executive_Dashboard.png
+│   ├── Page2_Customer_Dashboard.png
+│   └── Page3_Product_Geographic_Dashboard.png
+├── python/
+│   └── Online_Retail_Analysis.ipynb
+└── sql/
+    └── online_retail_analysis.sql
+```
 
 ## How to Reproduce the Analysis
 
